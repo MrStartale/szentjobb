@@ -3,6 +3,7 @@
     width: 950px;
     background-color: #571C0A;
     box-shadow: 5px 5px 5px #3F1407;
+    margin: auto;
 }
 
 hr
@@ -55,4 +56,5 @@ hr
 
 body{
     background-color: #571807;
+    color: #e8d4a1;
 }
