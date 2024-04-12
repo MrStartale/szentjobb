@@ -58,4 +58,6 @@ hr
 body{
     background-color: #571807;
     color: #e8d4a1;
+    font-size: 16px;
+    text-align: justify;
 }
